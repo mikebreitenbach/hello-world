@@ -1,2 +1,3 @@
 # hello-world
 One repository to rule them all...
+My name is Mike. I am completing a GitHub tutorial.
